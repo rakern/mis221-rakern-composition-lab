@@ -1,0 +1,16 @@
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\bin\Debug\net5.0\mis221-rakern-composition-lab.exe
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\bin\Debug\net5.0\mis221-rakern-composition-lab.deps.json
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\bin\Debug\net5.0\mis221-rakern-composition-lab.runtimeconfig.json
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\bin\Debug\net5.0\mis221-rakern-composition-lab.runtimeconfig.dev.json
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\bin\Debug\net5.0\mis221-rakern-composition-lab.dll
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\bin\Debug\net5.0\ref\mis221-rakern-composition-lab.dll
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\bin\Debug\net5.0\mis221-rakern-composition-lab.pdb
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\obj\Debug\net5.0\mis221-rakern-composition-lab.csproj.AssemblyReference.cache
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\obj\Debug\net5.0\mis221-rakern-composition-lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\obj\Debug\net5.0\mis221-rakern-composition-lab.AssemblyInfoInputs.cache
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\obj\Debug\net5.0\mis221-rakern-composition-lab.AssemblyInfo.cs
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\obj\Debug\net5.0\mis221-rakern-composition-lab.csproj.CoreCompileInputs.cache
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\obj\Debug\net5.0\mis221-rakern-composition-lab.dll
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\obj\Debug\net5.0\ref\mis221-rakern-composition-lab.dll
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\obj\Debug\net5.0\mis221-rakern-composition-lab.pdb
+C:\Users\racha\OneDrive\Documents\source\repos\mis221-rakern-composition-lab\obj\Debug\net5.0\mis221-rakern-composition-lab.genruntimeconfig.cache
